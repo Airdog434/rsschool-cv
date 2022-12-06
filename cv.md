@@ -3,7 +3,7 @@
 * **Phone:** +375 (25) 959-45-80
 * **E-mail:** uladzimir_khudziakou@mail.ru
 * **GitHub:** [Airdog434](https://github.com/Airdog434)
-* **Telegram:** [Vladimir](https://t.me/Against_Toxicity)
+* **Telegram:** [Uladzimir Khudziakou](https://t.me/Against_Toxicity)
 * **Discord:** Airdog666
 ## About Myself
 I am 22 and a final year student at university. In my opinion, the linguistic education that I am getting now is more suitable as a kind of supplement to something more useful. That's why I've decided to start studying programming and I hope to succeed in it:)
