@@ -30,7 +30,7 @@ Unfortunately, I haven't had any experience yet. In recent years, I have been st
 1. [itlogia:](https://itlogia.ru/) Online Intensive on "Frontend Start"
 2. Different youtube courses
 ## Education
-* Minsk State Linguistic University
+* Minsk State Linguistic University (2018-2023)
     + Faculty of interpreting and translating (English and Arabic languages)
 ## Languages
 * Russian - C2
