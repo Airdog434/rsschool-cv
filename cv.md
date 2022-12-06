@@ -26,9 +26,10 @@ function bmi(weight, height) {
 }
 ## Work experience
 Unfortunately, I haven't had any experience yet. In recent years, I have been studying in a higher education institution without the opportunity to work. At the moment I study programming in order to find a job in this field after graduation. 
-## Education and courses:
-1. [itlogia:](https://itlogia.ru/) Online Intensive on "Frontend Start"
+## Courses:
+1. itlogia: Online Intensive on "Frontend Start"
 2. Different youtube courses
+
 ## Education
 * Minsk State Linguistic University (2018-2023)
     + Faculty of interpreting and translating (English and Arabic languages)
